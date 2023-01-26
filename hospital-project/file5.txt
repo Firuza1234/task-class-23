@@ -1,0 +1,1 @@
+The access policy language enables you to specify conditions when granting permissions. To specify conditions for when a policy is in effect, you can use the optional Condition element, or Condition block, to specify conditions for when a policy is in effect. You can use predefined AWS‐wide keys and Amazon S3‐specific keys to specify conditions in an Amazon S3 access policy.
